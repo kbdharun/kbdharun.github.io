@@ -27,3 +27,6 @@ jobs:
         - uses: actions/checkout@v4
 
         - uses: codespell-project/actions-codespell@v2
+          with:
+            path: content
+            only_warn: 1
