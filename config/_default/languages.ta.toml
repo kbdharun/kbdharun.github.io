@@ -10,13 +10,13 @@ copyright = "Copyright kbdharun 2024-present"
 dateFormat = "2 January 2006"
 
 # mainSections = ["section1", "section2"]
-description = "My awesome website"
+#description = "My awesome website"
 
 [params.author]
  name = "Dharun Krishna K B"
- image = "profile.jpg"
- headline = "I'm only human"
- bio = "A little bit about youuuuu"
+ image = "profile.webp"
+ headline = "Developer, Writer, Open-source Enthusiast, CS Undergrad."
+ bio = "Developer, Writer, Open-source Enthusiast, CS Undergrad."
  links = [
     { email = "mailto:mail@kbdharun.dev" },
     { link = "https://blog.kbdharun.dev/" },

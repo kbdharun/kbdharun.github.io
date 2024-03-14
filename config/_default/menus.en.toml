@@ -16,13 +16,13 @@
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Contributions"
+  pageRef = "/contributions"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Localization"
+  pageRef = "/localisation"
   weight = 30
 
 [[main]]
