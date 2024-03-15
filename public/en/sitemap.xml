@@ -4,20 +4,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/contributions/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/localisation/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/</loc>
             <xhtml:link
               rel="alternate"
@@ -29,6 +15,38 @@
               hreflang="en"
               href="http://localhost:1313/"
               />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/cv/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/works/contributions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/works/localisation/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/works/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/works/projects/</loc>
           </url>
     
   

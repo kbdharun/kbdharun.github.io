@@ -16,14 +16,9 @@
   weight = 10
 
 [[main]]
-  name = "Contributions"
-  pageRef = "/contributions"
+  name = "Works"
+  pageRef = "/works"
   weight = 20
-
-[[main]]
-  name = "Localization"
-  pageRef = "/localisation"
-  weight = 30
 
 [[main]]
   identifier = "search"
@@ -41,7 +36,32 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Blog"
+   pageRef = "/contributions"
+   weight = 20
+
+ [[footer]]
+   name = "CV"
+   pageRef = "/cv"
+   weight =30
+ 
+ [[footer]]
+   name = "Contributions"
+   pageRef = "/contributions"
+   weight = 40
+
+ [[footer]]
+   name = "Localization"
+   pageRef = "/localization"
+   weight = 50
+
+ [[footer]]
+   name = "Projects"
+   pageRef = "/projects"
+   weight = 60

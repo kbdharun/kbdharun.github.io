@@ -1,4 +1,7 @@
-# Contributions
+---
+title: "Contributions"
+description: "Learn about some of my projects."
+---
 
 - Check out my work in localisation [here](https://github.com/kbdharun/kbdharun/blob/main/TRANSLATION.md).
 
