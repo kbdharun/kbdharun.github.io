@@ -20,5 +20,5 @@ description: "Learn about some of my projects."
 ## Other Links
 
 - [**GitLab**](https://gitlab.com/kbdharun)
-- [GNOME GitLab](https://gitlab.gnome.org)
+- [GNOME GitLab](https://gitlab.gnome.org/kbdharun)
 - [Wine GitLab](https://gitlab.winehq.org/kbdharun)
